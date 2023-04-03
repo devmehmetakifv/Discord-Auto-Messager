@@ -37,4 +37,4 @@ Bot is HIGHLY UNSTABLE and may not work CORRECTLY! There are a few logical mista
 
 # Screenshot
 
-[Screenshot of Discord Auto Messager](https://raw.githubusercontent.com/devmehmetakifv/Discord-Auto-Messager/master/ss.PNG?token=GHSAT0AAAAAAB667SF5UHAEOV2RMABTNQDSZBK24OQ)
+![Screenshot of Discord Auto Messager](https://raw.githubusercontent.com/devmehmetakifv/Discord-Auto-Messager/master/ss.PNG?token=GHSAT0AAAAAAB667SF5UHAEOV2RMABTNQDSZBK24OQ)
