@@ -8,14 +8,14 @@ Comes with KeyMessagerClient class that you can use to create your own Discord b
 
 Create new instance of the class and use the constructor to pass in all neccessary data.
 
-'''
+```
 KeyMessagerClient client = new KeyMessagerClient(fileContentToSend,channelNums,timeIntervals,authorizationCode);
-'''
+```
 
 Use asynchronous InitiateProcess() function to begin sending messages.
 
-'''
+```
 await client.InitiateProcess();
-'''
+```
 
 # Attention!
