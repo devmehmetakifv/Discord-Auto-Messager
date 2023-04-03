@@ -4,7 +4,7 @@ A Discord bot with GUI that sends different messages to different channels with 
 
 # Description
 
-Comes with KeyMessagerClient class that you can use to create your own Discord bots.
+Comes with KeyMessagerClient class that you can use to create your own Discord bots. Supports 7 channels for now, you can support more channels by editing GUI and simple code blocks.
 
 Create new instance of the class and use the constructor to pass in all neccessary data.
 
@@ -35,3 +35,6 @@ You also might have to edit time interval lists for your own specific use.
 
 Bot is HIGHLY UNSTABLE and may not work CORRECTLY! There are a few logical mistakes in client code that might effect the program's functionality. Be prepared for them.
 
+# Screenshot
+
+[Screenshot of Discord Auto Messager](https://raw.githubusercontent.com/devmehmetakifv/Discord-Auto-Messager/master/ss.PNG?token=GHSAT0AAAAAAB667SF5UHAEOV2RMABTNQDSZBK24OQ)
