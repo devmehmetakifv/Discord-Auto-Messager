@@ -29,6 +29,7 @@ You can find 'authorizationCode' by following these steps:
 5. You will notice 'typing' statement appear on the console. Click on it.
 6. Scroll down untill you see 'authorization-code'.
 
+You also might have to edit time interval lists for your own specific use.
 
 # Attention!
 
