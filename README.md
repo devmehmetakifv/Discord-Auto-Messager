@@ -22,12 +22,12 @@ Be sure to modify links.json with your own custom links to send your messages to
 
 You can find 'authorizationCode' by following these steps:
 
-1- Go to any channel on Discord
-2- Hit F12
-3- Select 'Network'
-4- Type something on channel (don't send).
-5- You will notice 'typing' statement appear on the console. Click on it.
-6- Scroll down untill you see 'authorization-code'.
+1. Go to any channel on Discord
+2. Hit F12
+3. Select 'Network'
+4. Type something on channel (don't send).
+5. You will notice 'typing' statement appear on the console. Click on it.
+6. Scroll down untill you see 'authorization-code'.
 
 
 # Attention!
