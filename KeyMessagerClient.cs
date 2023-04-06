@@ -109,6 +109,7 @@ namespace myFirstForm
 
             //Put the rest in an infinite loop
             //First, let's split different time intervals in different lists.
+            //This logic is not being used in the current version of software. You can quote this foreach loop with List initializations. No functionality will be affected.
             List<int> twoHourIntervals = new List<int>();
             List<int> sixHourIntervals = new List<int>();
             foreach(int interval in timeIntervals)
