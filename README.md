@@ -37,6 +37,6 @@ Bot is HIGHLY UNSTABLE and may not work CORRECTLY! There are a few logical mista
 
 # Screenshot
 
-![Screenshot of Discord Auto Messager](https://raw.githubusercontent.com/devmehmetakifv/Discord-Auto-Messager/master/ss.PNG?token=GHSAT0AAAAAAB667SF4C5RASCQN254TY37SZBPHE3Q)
+![Screenshot of Discord Auto Messager](https://raw.githubusercontent.com/devmehmetakifv/Discord-Auto-Messager/master/ss.PNG?token=GHSAT0AAAAAAB667SF5AG2RYTNVIU2T6YNUZB7T7TA)
 
 NOTE: Channel numbers are the numbers pointing to discord links in links.json file. Check links.json and you will understand.
